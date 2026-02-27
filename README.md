@@ -2,7 +2,7 @@
 
 This is the code repository for the study:
 
-> Antal T, Atkins KE, Hue S, Lythgoe KA, Regoes RR, Thompson RN, Villabona-Arenas CJ. "Reconciling HIV epidemiology by accounting for within-host dynamics." [Unpublished]
+> Atkins KE, Antal T, Lythgoe KA, Regoes RR, Thompson RN, Hué S, Villabona-Arenas CJ. "Reconciling contradictions of HIV epidemiology by accounting for dynamics within both the transmitting and exposed partners." [Unpublished]
 
 ## Overview
 
@@ -160,11 +160,12 @@ Both models return a list with:
 ## Citation
 
 ```bibtex
-@article{antal2025reconciling,
-  title   = {Reconciling {HIV} epidemiology by accounting for within-host dynamics},
-  author  = {Antal, Tibor and Atkins, Katherine E. and Hue, Stephane and
-             Lythgoe, Katrina and Regoes, Roland and Thompson, Robin N. and
-             Villabona-Arenas, Ch. Julian},
+@article{atkins2025reconciling,
+  title   = {Reconciling contradictions of {HIV} epidemiology by accounting for
+             dynamics within both the transmitting and exposed partners},
+  author  = {Atkins, Katherine E. and Antal, Tibor and Lythgoe, Katrina and
+             Regoes, Roland and Thompson, Robin N. and Hu{\'e}, St{\'e}phane and
+             Villabona-Arenas, Ch. Juli{\'a}n},
   year    = {2025},
   note    = {Unpublished}
 }
