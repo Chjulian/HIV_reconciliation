@@ -1,6 +1,6 @@
 # HIV_Reconciliation
 
-This is the code and data repository for the study:
+This is the code repository for the study:
 
 > Antal T, Atkins KE, Hue S, Lythgoe KA, Regoes RR, Thompson RN, Villabona-Arenas CJ. "Reconciling HIV epidemiology by accounting for within-host dynamics." [Unpublished]
 
