@@ -2,7 +2,7 @@
 
 This is the code repository for the study:
 
-> Atkins KE, Antal T, Lythgoe KA, Regoes RR, Thompson RN, Hué S, Villabona-Arenas CJ. "Reconciling contradictions of HIV epidemiology by accounting for dynamics within both the transmitting and exposed partners." [Unpublished]
+> Atkins KE, Antal T, Lythgoe KA, Regoes RR, Thompson RN, Hué S, Villabona-Arenas CJ. "Accounting for barriers to HIV infection in the recipient partner reveals frequent transient infections and explains transmission risk under viral suppression." [Unpublished]
 
 ## Overview
 
@@ -161,8 +161,7 @@ Both models return a list with:
 
 ```bibtex
 @article{atkins2025reconciling,
-  title   = {Reconciling contradictions of {HIV} epidemiology by accounting for
-             dynamics within both the transmitting and exposed partners},
+  title   = {Accounting for barriers to HIV infection in the recipient partner reveals frequent transient infections and explains transmission risk under viral suppression},
   author  = {Atkins, Katherine E. and Antal, Tibor and Lythgoe, Katrina and
              Regoes, Roland and Thompson, Robin N. and Hu{\'e}, St{\'e}phane and
              Villabona-Arenas, Ch. Juli{\'a}n},
