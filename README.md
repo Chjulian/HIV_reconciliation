@@ -2,7 +2,7 @@
 
 This is the code repository for the study:
 
-> Atkins KE, Antal T, Lythgoe KA, Regoes RR, Thompson RN, Hué S, Villabona-Arenas CJ. "Accounting for barriers to HIV infection in the recipient partner reveals frequent transient infections and explains transmission risk under viral suppression." [Unpublished]
+> Atkins KE, Antal T, Lythgoe KA, Regoes RR, Thompson RN, Hué S, Villabona-Arenas CJ. "Accounting for barriers to HIV infection in the recipient partner reveals frequent transient infections and explains transmission risk under viral suppression." [Unpublished] medRxiv 2026.03.20.26348904; doi: https://doi.org/10.64898/2026.03.20.26348904
 
 ## Overview
 
